@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "De Cero a Finanzas: Tus Primeros Pasos",
+        "nivel": "Básico",
+        "objetivo": "Aprender a gestionar tus ingresos y gastos y desarrollar hábitos financieros saludables.",
+        "temas": [
+          {
+            "titulo": "Conceptos básicos de ahorro e inversión",
+            "explicacion": "El ahorro es la práctica de reservar una parte de tus ingresos con el objetivo de utilizarlos en el futuro, ya sea para cubrir emergencias o alcanzar metas personales como un viaje o la compra de un automóvil. Sin embargo, ahorrar en efectivo o en cuentas sin intereses no es suficiente, ya que la inflación reduce el valor del dinero con el tiempo. Por eso, es importante complementar el ahorro con inversión.\n\nInvertir consiste en poner tu dinero a trabajar mediante instrumentos financieros que generan rendimientos, como CETES o fondos de inversión. Mientras que el ahorro se enfoca en la seguridad y liquidez, la inversión busca hacer crecer tu patrimonio a largo plazo. Una excelente manera de comenzar es a través de cuentas de inversión disponibles en la app de **Banorte**, donde puedes automatizar aportaciones a instrumentos seguros y accesibles para nuevos inversionistas."
+          },
+          {
+            "titulo": "Introducción al manejo de tarjetas de crédito (TDC)",
+            "explicacion": "Las tarjetas de crédito son herramientas que te permiten realizar compras sin disponer de efectivo al momento, pero su uso requiere disciplina financiera. Cada mes, el banco establece una fecha de corte y una fecha de pago. Si pagas el total adeudado antes de la fecha de pago, no se generan intereses. Sin embargo, si solo realizas el pago mínimo, se acumulan intereses sobre el saldo pendiente, lo que puede llevarte a una deuda significativa.\n\nEl manejo responsable de las tarjetas de crédito contribuye a mejorar tu historial crediticio, que es una referencia utilizada por bancos y otras instituciones para ofrecerte financiamiento en el futuro. A través de la **App Banorte Móvil**, puedes monitorear tus gastos en tiempo real, establecer alertas de pago y evitar cargos por retrasos. Además, esta app permite activar la modalidad de meses sin intereses para aprovechar promociones y administrar mejor tus finanzas."
+          },
+          {
+            "titulo": "Cómo abrir y manejar cuentas de ahorro o nómina",
+            "explicacion": "Abrir una cuenta de ahorro o de nómina es fundamental para gestionar tus ingresos de forma eficiente. Una cuenta de nómina es útil para recibir tu salario de manera directa y facilita el pago de servicios y compras mediante transferencias electrónicas o tarjetas de débito. Por otro lado, una cuenta de ahorro permite separar una porción de tus ingresos para metas específicas o emergencias, generando además pequeños intereses que ayudan a mantener el valor del dinero.\n\nBanorte ofrece la **Cuenta Digital Bineo**, que es perfecta para quienes buscan administrar sus ingresos sin comisiones y con acceso 100% digital. Utilizar este tipo de cuentas no solo te ayuda a mantener tus finanzas ordenadas, sino que también facilita la creación de un fondo de ahorro. Establecer transferencias automáticas de tu cuenta de nómina a la de ahorro es una práctica recomendable para asegurar que ahorres de forma consistente cada mes sin esfuerzo adicional."
+          },
+          {
+            "titulo": "Uso de banca en línea y apps bancarias",
+            "explicacion": "La banca digital es una herramienta clave para gestionar tus finanzas de forma rápida y segura desde cualquier lugar. A través de apps bancarias como **Banorte Móvil**, puedes realizar transferencias, pagar servicios, consultar tus saldos y recibir notificaciones de cada movimiento en tu cuenta en tiempo real. Esta facilidad no solo te ahorra tiempo al evitar filas en sucursales, sino que también mejora tu control financiero diario.\n\nEs fundamental que tomes medidas de seguridad al usar banca en línea: evita realizar transacciones en redes Wi-Fi públicas y activa la autenticación en dos pasos para proteger tu cuenta. La banca digital también facilita la creación de presupuestos al permitirte categorizar gastos y visualizar tus patrones de consumo. Aprovechar estas herramientas fortalece tus habilidades de gestión financiera y te ayuda a mantener tus finanzas organizadas de manera más eficiente."
+          }
+        ]
+      }      
+  ]
+  

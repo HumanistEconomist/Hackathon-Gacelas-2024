@@ -1,0 +1,19 @@
+{
+  "titulo": "Banca Digital para Todos: Aprovecha Tus Herramientas Financieras",
+  "nivel": "Básico",
+  "objetivo": "Dominar la tecnología bancaria y facilitar la gestión de tus finanzas diarias.",
+  "temas": [
+    {
+      "titulo": "Uso correcto de la banca en línea y apps móviles",
+      "explicacion": "La banca digital permite gestionar tus finanzas desde cualquier lugar con acceso a internet, brindando comodidad y seguridad en cada transacción. A través de plataformas como **Banorte Móvil**, puedes realizar pagos de servicios, transferencias bancarias, y revisar tus saldos en tiempo real. Además, estas herramientas facilitan la administración de varias cuentas en un solo lugar, lo que permite visualizar tus movimientos y gastos sin complicaciones. \n\nPara maximizar el uso de estas herramientas, es fundamental familiarizarse con sus principales funciones: activa notificaciones de movimientos para detectar cualquier actividad sospechosa en tus cuentas, programa transferencias automáticas para no olvidar pagos importantes y aprovecha las funciones de presupuesto integradas en algunas apps. La banca en línea también permite pagar servicios públicos o impuestos sin necesidad de acudir a sucursales, ahorrando tiempo y esfuerzo. La clave está en utilizar estas plataformas de manera rutinaria para tener un control continuo de tus finanzas personales."
+    },
+    {
+      "titulo": "Beneficios de una cuenta bancaria o de ahorro",
+      "explicacion": "Tener una cuenta bancaria es esencial para manejar tus finanzas de manera segura y eficiente. Las cuentas de nómina, por ejemplo, permiten recibir tu salario de forma rápida, realizar pagos y transferencias electrónicas, y evitar el manejo de efectivo. Por otro lado, las cuentas de ahorro están diseñadas para separar dinero destinado a emergencias o metas a futuro, generando intereses que ayudan a mantener el valor del dinero a lo largo del tiempo. \n\nEl **Banco Digital Bineo** de Banorte es una excelente opción para quienes buscan una cuenta sin comisiones, accesible 100% en línea, y con beneficios adicionales como la administración de metas de ahorro mediante 'pockets' personalizados. Este tipo de cuentas también ofrece seguridad mediante la autenticación en dos pasos y alertas de movimiento, lo que permite tener control absoluto sobre tus fondos. Al abrir una cuenta bancaria o de ahorro, estás creando una base sólida para gestionar tus ingresos y ahorrar de forma eficiente."
+    },
+    {
+      "titulo": "Seguridad y protección al usar herramientas digitales",
+      "explicacion": "El uso de herramientas digitales para gestionar tus finanzas requiere tomar precauciones para evitar fraudes o accesos no autorizados. Uno de los primeros pasos es activar la **autenticación en dos pasos** en todas tus cuentas bancarias, lo que añade una capa adicional de seguridad. Asimismo, evita realizar transacciones desde redes públicas o desconocidas, y siempre revisa los movimientos de tus cuentas para detectar actividades inusuales. \n\nOtro consejo importante es usar contraseñas complejas y cambiarlas regularmente. Las apps bancarias como **Banorte Móvil** también permiten bloquear tarjetas de forma temporal desde la aplicación en caso de pérdida o robo, brindando tranquilidad inmediata. Además, puedes configurar alertas para cada movimiento de tu cuenta, lo que facilita la detección temprana de posibles fraudes. La combinación de estas medidas asegura que tus finanzas estén protegidas mientras disfrutas de la comodidad que ofrece la banca digital."
+    }
+  ]
+}
